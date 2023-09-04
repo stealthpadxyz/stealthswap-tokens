@@ -1,5 +1,5 @@
 {
-    "name": "Stealthswap Default List",
+    "name": "Stealthswap List",
     "timestamp": "2021-01-21T23:57:10.982Z",
     "version": {
       "major": 2,
@@ -7,7 +7,7 @@
       "patch": 0
     },
     "tags": {},
-    "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+    "logoURI": "https://stealthpad.xyz/assets/logo-9143866f.gif",
     "keywords": [
       "uniswap",
       "default"
