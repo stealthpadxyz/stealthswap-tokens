@@ -11,6 +11,14 @@
   "keywords": ["stealthswap", "tokens", "default", "meme"],
   "tokens": [
     {
+      "name": "StealthSwap",
+      "symbol": "STEALTH",
+      "address": "0x5CDF9FC2Bf11F3E6ef99344f3D13e58DdAc62Ec9",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/StealthSwap/stealthswap-tokens/main/images/8453/tokens/0x5CDF9FC2Bf11F3E6ef99344f3D13e58DdAc62Ec9.png"
+    },
+    {
       "name": "BABYDACKIE",
       "symbol": "BABYDACKIE",
       "address": "0xFf2989af93896619459Ac56368Ad62CfBe8AA4CB",
